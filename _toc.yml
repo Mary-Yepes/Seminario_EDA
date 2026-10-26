@@ -1,0 +1,6 @@
+format: jb-book
+root: 00_presentacion
+chapters:
+  - file: 01_preprocesamiento
+  - file: 02_univariado
+  - file: 03_bivariado

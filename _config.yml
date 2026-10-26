@@ -1,0 +1,19 @@
+title: "Edad de inicio del Alzheimer en el Atlántico"
+author: "Tu nombre y el de tu compañera"
+copyright: "2026"
+
+execute:
+  execute_notebooks: "off"      # usa las salidas ya guardadas
+
+exclude_patterns: [_build, datos, salidas, "**.ipynb_checkpoints"]
+
+repository:
+  url: https://github.com/TU_USUARIO/eda-alzheimer-aoo
+  branch: main
+
+html:
+  use_repository_button: true
+
+sphinx:
+  config:
+    language: es
